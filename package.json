@@ -1,0 +1,13 @@
+{
+  "name": "vue-instagram-video-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ayatmaulana/vue-video-instagram-style.git",
+  "author": "Ayat Maulana",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6"
+}
+}
